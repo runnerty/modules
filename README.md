@@ -5,8 +5,8 @@ A curated list of official Runnerty modules.
 If you want to contribute, please submit a pull request.
 
 ## Triggers
-- [File watcher](https://github.com/runnerty/trigger-file-watcher)
 - [Schedule](https://github.com/runnerty/trigger-schedule)
+- [File watcher](https://github.com/runnerty/trigger-file-watcher)
 - [Twitter](https://github.com/runnerty/trigger-twitter)
 
 ## Executors
@@ -21,6 +21,7 @@ If you want to contribute, please submit a pull request.
 - [Iconv](https://github.com/runnerty/executor-iconv)
 - [Iterable](https://github.com/runnerty/executor-iterable)
 - [Mail](https://github.com/runnerty/executor-mail)
+- [Microsoft SQL Server](https://github.com/runnerty/executor-sqlserver)
 - [MySQL](https://github.com/runnerty/executor-mysql)
 - [Parse XML to JSON](https://github.com/runnerty/executor-parse-xml-json)
 - [PDF](https://github.com/runnerty/executor-pdf)
