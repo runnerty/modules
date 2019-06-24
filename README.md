@@ -25,6 +25,7 @@ If you want to contribute, please submit a pull request.
 - [MySQL](https://github.com/runnerty/executor-mysql)
 - [Parse XML to JSON](https://github.com/runnerty/executor-parse-xml-json)
 - [PDF](https://github.com/runnerty/executor-pdf)
+- [Puppetter Export:PDF/Image](https://github.com/runnerty/executor-puppeteer-export)
 - [Postgres](https://github.com/runnerty/executor-postgres)
 - [Redis](https://github.com/runnerty/executor-redis)
 - [SCP](https://github.com/runnerty/executor-scp)
