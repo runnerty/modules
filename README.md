@@ -19,6 +19,7 @@ If you want to contribute, please submit a pull request.
 - [FTP](https://github.com/runnerty/executor-ftp)
 - [Http](https://github.com/runnerty/executor-http)
 - [Iconv](https://github.com/runnerty/executor-iconv)
+- [Image](https://github.com/runnerty/executor-image)
 - [Iterable](https://github.com/runnerty/executor-iterable)
 - [Mail](https://github.com/runnerty/executor-mail)
 - [Microsoft SQL Server](https://github.com/runnerty/executor-sqlserver)
