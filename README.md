@@ -12,6 +12,7 @@ If you want to contribute, please submit a pull request.
 ## Executors
 - [Amazon Ec2](https://github.com/runnerty/executor-ec2)
 - [Amazon S3](https://github.com/runnerty/executor-s3)
+- [AMQP](https://github.com/runnerty/executor-amqp)
 - [Check online service](https://github.com/runnerty/executor-check-online-service)
 - [Confirm](https://github.com/runnerty/executor-confirm)
 - [Decompress](https://github.com/runnerty/executor-decompress)
