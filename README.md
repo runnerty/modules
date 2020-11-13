@@ -24,6 +24,7 @@ If you want to contribute, please submit a pull request.
 - [Iterable](https://github.com/runnerty/executor-iterable)
 - [Mail](https://github.com/runnerty/executor-mail)
 - [Microsoft SQL Server](https://github.com/runnerty/executor-sqlserver)
+- [MQTT](https://github.com/runnerty/executor-mqtt)
 - [MySQL](https://github.com/runnerty/executor-mysql)
 - [Parse XML to JSON](https://github.com/runnerty/executor-parse-xml-json)
 - [PDF](https://github.com/runnerty/executor-pdf)
