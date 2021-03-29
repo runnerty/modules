@@ -35,6 +35,9 @@ If you want to contribute, please submit a pull request.
 - [Shell](https://github.com/runnerty/executor-shell)
 - [Twitter](https://github.com/runnerty/executor-twitter)
 - [Wait](https://github.com/runnerty/executor-wait)
+- [JSON2CSV](https://github.com/runnerty/executor-json2csv)
+- [CSV2JSON](https://github.com/runnerty/executor-csv2json)
+- [Cypress](https://github.com/runnerty/executor-cypress)
 
 ## Notifiers
 - [Console](https://github.com/runnerty/notifier-console)
